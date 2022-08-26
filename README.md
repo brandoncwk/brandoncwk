@@ -5,21 +5,21 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-###Languages and Tools:
+### Languages and Tools:
 Programming Language
 
 
-###Web Development
+### Web Development
 html5 css3
 
-###Backend Development
+### Backend Development
 php mysql oracle 
 
-###Mobile App Development
+### Mobile App Development
 dart flutter swift
 
-###Tools
+### Tools
 Figma Canva Illustrator Inkscape
 
-###Connect with me !
+### Connect with me !
 brandon.choowk@gmail.com https://www.linkedin.com/in/brandon-choowk/

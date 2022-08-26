@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on this introduction section kekw
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on this introduction section kekw
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 Programming Language
-java python scala
+java python scala![java-original](https://user-images.githubusercontent.com/98384765/186794605-70af1d05-2784-4cf6-94f7-3ad5ded56944.svg)
+
 
 Web Development
 html5 css3

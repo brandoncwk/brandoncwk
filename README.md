@@ -1,46 +1,25 @@
 ### Hi there 👋
 
-<!--
-**brandoncwk/brandoncwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on this introduction section kekw
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a book scanning robot with Sunway University
+- 🌱 I’m currently learning 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🔭 I’m currently working on this introduction section kekw
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Languages and Tools:
+###Languages and Tools:
 Programming Language
-java python scala![java-original](https://user-images.githubusercontent.com/98384765/186794605-70af1d05-2784-4cf6-94f7-3ad5ded56944.svg)
 
 
-Web Development
+###Web Development
 html5 css3
 
-Backend Development
+###Backend Development
 php mysql oracle 
 
-Mobile App Development
+###Mobile App Development
 dart flutter swift
 
-Tools
+###Tools
 Figma Canva Illustrator Inkscape
 
-Connect with me !
+###Connect with me !
 brandon.choowk@gmail.com https://www.linkedin.com/in/brandon-choowk/

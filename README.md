@@ -41,4 +41,7 @@ I'm Brandon! I decided to pivot into tech because there's always something excit
 </p>
 
 ### Connect with me !
-brandon.choowk@gmail.com https://www.linkedin.com/in/brandon-choowk/
+<p>
+<a href="mailto: brandon.choowk@gmail.com" target="_blank"> <img src="https://user-images.githubusercontent.com/63916254/158004837-7c7bb0f6-1843-441d-a234-30a8da6cae9e.png" alt="gmail" width="89" height="45" /> </a>
+<a href="https://www.linkedin.com/in/brandon-choowk/" target="_blank"> <img src="https://user-images.githubusercontent.com/63916254/158004908-f67aa5e3-4de9-4372-851c-96c67ac46b2f.png" alt="linkedin" width="80" height="45" /> </a>
+</p>

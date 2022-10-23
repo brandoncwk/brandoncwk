@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Brandon! I decided to pivot into tech because there's always something exciting and fulfilling to do. Currently, I'm doing a CS degree at Sunway University, and everyday, I am affired that going back to school was the best decision I've made for myself in years! In my spare time, I make an effort to involve myself in as many learning opportunites as possible before I graduate.
+I'm Brandon! I decided to pivot into tech because there's always something exciting and fulfilling to do. Currently, I'm doing a CS degree at Sunway University, and everyday, I am affirmed that going back to school was the best decision I've made for myself in years! In my spare time, I make an effort to involve myself in as many learning opportunites as possible before I graduate.
 
 - 🔭 I’m currently working on: internship prep and populating my GitHub (Stay tuned!) 😛
 - 🌱 I’m currently learning: Arduino programming, data mining fundamentals and image processing

@@ -1,10 +1,8 @@
 ### Hi there 👋
-I'm Brandon! I decided to pivot into tech because there's always something exciting and fulfilling to do. Currently, I'm doing a CS degree at Sunway University, and everyday, I am affirmed that going back to school was the best decision I've made for myself in years! In my spare time, I make an effort to involve myself in as many learning opportunites as possible before I graduate.
+I'm Brandon! I'm working in data right now and I'm not very good at programming 🥲 but I like to try building dumb projects for fun in my spare time.
 
-- 🔭 I’m currently working on: internship prep and populating my GitHub (Stay tuned!) 😛
-- 🌱 I’m currently learning: Arduino programming, data mining fundamentals and image processing
-- 📫 How to reach me: brandon.choowk@gmail.com
-- ⚡ Fun fact: Everything is edible at least once
+- 🔭 I’m currently working on: A variety of things for self-learning. I might try doing a visual novel next.
+- 📫 How to reach me: DM me here or Instagram is cool too (@brandon.choowk)
 
 ### Languages and Tools:
 ### Programming Language
